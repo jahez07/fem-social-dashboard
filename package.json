@@ -12,7 +12,8 @@
     "gulp-postcss": "^10.0.0",
     "gulp-sass": "^5.1.0",
     "gulp-terser": "^2.1.0",
-    "postcss": "^8.4.38"
+    "postcss": "^8.4.38",
+    "sass": "^1.75.0"
   },
   "name": "fem-social-dashboard",
   "description": "![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)",
